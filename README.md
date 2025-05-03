@@ -1,4 +1,5 @@
 # RL--Q-learning-and-SARSA
+These are the codes written by Chinonso Frank Amamchukwu for his MSc thesis in Reinforcement Learning.
 Algorithmic Implementation of Q-Learning and SARSA for Price Optimization
 
 The objective of this project is to use Q-learning and SARSA to learn price optimization.
